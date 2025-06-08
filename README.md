@@ -1,5 +1,5 @@
 # Laravel Complete Blog Development
-This is a Blog Development Tutorial Series on Youtube. This project is made by <a href="https://zakirhossen.com" target="_blank">SuperDev</a> for the tutorial Purpose.
+This is a Blog Development Tutorial Series on Youtube. This project is made by SuperDev for the tutorial Purpose.
 
 ## Tutorial Link
 - [Series Prview Link](https://www.youtube.com/watch?v=CEYYeeM763E&list=PLl4v4A2HI0YixTm5AsoTu-sKxiQti4-r6&index=1&t=1s)
